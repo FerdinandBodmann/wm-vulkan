@@ -1,0 +1,2 @@
+option('wlr-protocol-dir', type: 'string', value: '',
+       description: 'Path to wlr-protocols directory')
